@@ -1,2 +1,3 @@
 # SD-CARD-READER
-ESP32 S3 USB Mass Storage Device (Read Write to SD card using ESP32 S3)
+I was using a micro-sd card reader for years... until it broke...
+So i decided to not spent 3 euros and instead build my own.
